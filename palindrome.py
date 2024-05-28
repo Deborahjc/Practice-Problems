@@ -11,7 +11,3 @@ def isPalindrome(x: int) -> bool:
     if reverse == x:
         return True
     return False
-
-
-
-print(isPalindrome(121))
